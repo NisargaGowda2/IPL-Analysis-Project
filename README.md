@@ -31,7 +31,7 @@ IPL Data Analysis using Python, Pandas, and Seaborn
 - Histograms
 - Team performance analysis
 
----
+ ipl_dataset on kaggle = https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 
 ### 👩‍💻 Author
 Nisarga
